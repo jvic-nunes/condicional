@@ -36,7 +36,7 @@ if(p1 === p2){
 
 //if(p1 % 2 === 0 || p2 % 2 === 0)
 
-let escolha = 1
+//let escolha = 1
 let p1 = 7
 let p2 = 7
 let soma = p1 + p2
