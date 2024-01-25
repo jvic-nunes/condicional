@@ -1,3 +1,3 @@
 const nome = "mago de riga"
 
-nome === "eduardo" ? console.log("amarelo") : console.log("vermelho"); 
+nome === "mago de riga" ? console.log("amarelo") : console.log("vermelho"); 
