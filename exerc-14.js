@@ -1,8 +1,7 @@
 /* Duas pessoas estão jogando pedra, papel ou tesoura. 
 Você deve imprimir o nome da jogada vencedora, ou "empate", em caso de empate. */
 
-
-let p1 = "lagarto" 
+let p1 = "pedra" 
 let p2 = "spock"
 
 if(p1 === p2){
